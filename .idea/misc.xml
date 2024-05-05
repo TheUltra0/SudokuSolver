@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable-night/backbutton.xml" value="0.36153846153846153" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable-night/clear.xml" value="0.3527777777777778" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable-night/clearanim.xml" value="0.2175925925925926" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable-night/colorsettings.xml" value="0.36153846153846153" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable-night/drawable.xml" value="0.36153846153846153" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable-night/eraser.xml" value="0.36153846153846153" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable-night/eraser_anim.xml" value="0.3769230769230769" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable-night/hint.xml" value="0.36153846153846153" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable-night/pen.xml" value="0.36153846153846153" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable-night/resume.xml" value="0.36153846153846153" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable-night/settings.xml" value="0.36153846153846153" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable-night/solve.xml" value="0.3527777777777778" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable-night/solveanim.xml" value="0.3769230769230769" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable-v24/avd_anim (6).xml" value="0.1" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable-v24/colorbuttonlight.xml" value="0.36153846153846153" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable-v24/colorubuttonnight.xml" value="0.36153846153846153" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3592592592592593" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable-v24/solveanim.xml" value="0.32037037037037036" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable/avd_anim (6).xml" value="0.3148148148148148" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable/avd_anim (7).xml" value="0.3148148148148148" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable/backbutton.xml" value="0.36153846153846153" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable/clear.xml" value="0.3527777777777778" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable/clearanim.xml" value="0.3111111111111111" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable/colorsettings.xml" value="0.36153846153846153" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable/eraser.xml" value="0.36153846153846153" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable/eraser_anim.xml" value="0.3769230769230769" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable/hint.xml" value="0.36153846153846153" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3592592592592593" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable/pen.xml" value="0.36153846153846153" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable/resume.xml" value="0.36153846153846153" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable/settings.xml" value="0.36153846153846153" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable/solve.xml" value="0.3527777777777778" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable/solveanim.xml" value="0.2962962962962963" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/drawable/sudokusolvericon_background.xml" value="0.3592592592592593" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/layout/colorbuttonsettings.xml" value="0.35104166666666664" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/layout/sudokusolver.xml" value="0.25" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.3592592592592593" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3592592592592593" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/mipmap-anydpi-v26/sudokusolvericon.xml" value="0.3592592592592593" />
+        <entry key="..\:/projects/SudokuSolver/app/src/main/res/mipmap-anydpi-v26/sudokusolvericon_round.xml" value="0.3592592592592593" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
